@@ -1,0 +1,43 @@
+KONGPEDIA
+Version 1.0
+
+Copyright (c) 2025 Jake Carrington
+All rights reserved.
+
+1) DEFINITIONS
+“Software” means all source code, documentation, configuration, assets, and other content in this repository, including any portion of it.
+“Repository” means the GitHub repository where this license is published.
+
+2) LIMITED PERMISSION TO VIEW
+Subject to the terms of this license, you are granted a limited, non-exclusive, non-transferable, revocable permission to:
+(a) view and browse the Software using the GitHub web interface; and
+(b) make only those temporary or incidental copies that are automatically created by your device or browser strictly as necessary to view the Software.
+
+No other rights are granted.
+
+3) RESTRICTIONS
+Except as expressly permitted in Section 2, you may not, and you may not permit others to:
+(a) copy, reproduce, download, clone, mirror, archive, scrape, or otherwise collect the Software or any portion of it;
+(b) fork the Repository or create any public or private derivative repository containing the Software or any portion of it;
+(c) modify, adapt, translate, or create derivative works based on the Software;
+(d) distribute, publish, sublicense, sell, rent, lease, lend, or otherwise make the Software available to any third party;
+(e) use the Software for any purpose (including running, compiling, deploying, or incorporating it into another project), except for viewing as permitted in Section 2.
+
+4) GITHUB PLATFORM TERMS
+This license governs permissions from the copyright owner to you. GitHub may exercise rights necessary to host and display the Repository under its own terms of service. You must still comply with this license when interacting with the Software.
+
+5) FEEDBACK AND CONTRIBUTIONS
+If you submit feedback, issues, or suggestions, you grant the copyright owner a perpetual, irrevocable, worldwide, royalty-free right to use them for any purpose.
+If you submit code or other content to the Repository (a “Contribution”), you grant the copyright owner a perpetual, irrevocable, worldwide, royalty-free license to use, reproduce, modify, create derivative works from, and distribute that Contribution as part of the Software under any terms.
+
+6) TERMINATION
+Any violation of this license automatically terminates your permission to view the Software. Upon termination, you must delete any non-incidental copies of the Software in your possession or control.
+
+7) NO WARRANTY
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8) LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+9) CONTACT
+For commercial licensing or other permissions, contact: Jake Carrington <https://github.com/leafnetjake>
