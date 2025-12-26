@@ -1,0 +1,1 @@
+@layer reset,default,theme,layout,components,elements,utils,character,modifiers;*{touch-action:manipulation}header h1{text-transform:uppercase;letter-spacing:.2em;color:var(--color-txt-highlight);font-size:1rem;font-weight:700}
